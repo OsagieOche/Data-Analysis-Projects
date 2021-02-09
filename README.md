@@ -1,2 +1,2 @@
 # Data-Projects
-Data Science Portfolio Projects 2021
+Data Analysis Portfolio Projects 2021
